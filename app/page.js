@@ -60,7 +60,7 @@ export default function Home() {
             </div>
             <div className="intro-copy">
               <p className="lead">There are seasons of hardship when the words of God can feel hard to find. And many of us have yet to feel truly connected to Him at all.</p>
-              <p>Letters With God offers a simple prayer practice to help you connect with, hear, and transcribe the voice of God, so you can come to know Him, and be known.</p>
+              <p>Letters With God offers a simple prayer practice to help you connect with, hear, and transcribe the voice of God, so you can come to know Him, and be known by Him.</p>
               <div className="scripture-note">
                 <CrossMark />
                 <blockquote>“Be still, and know that I am God.”</blockquote>
